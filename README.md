@@ -1,5 +1,5 @@
 # meta_learn_mpc_opt
-This repo contains experiments to speed up differentiable MPC optimization by learning a meta-learner that creates a model which optimizes the cost function with very few iterations of backpropagation.
+This repo contains experiments to speed up differentiable MPC optimization by learning a meta-learner that learns an optimizer which optimizes the cost function with few iterations of backpropagation.
 
 ## Meta-Learners tested so far
 * MAML
