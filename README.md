@@ -4,6 +4,7 @@ This repo contains experiments to speed up differentiable MPC optimization by le
 ## Meta-Learners tested so far
 * MAML
 * Meta-LSTM
+* Iterative Optimizer
 
 ## Control tasks
 * Double Integrator
